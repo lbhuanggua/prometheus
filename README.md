@@ -1,2 +1,2 @@
-# prometheus
-普罗米修斯文档
+# Initial page
+
