@@ -2,14 +2,13 @@
 
 * [概述](README.md)
 
-## 简介
+## 前言 <a id="introduction"></a>
 
-* [简介第二页](jian-jie/jian-jie-di-er-ye/README.md)
-  * [2222](jian-jie/jian-jie-di-er-ye/2222.md)
-  * [11111](jian-jie/jian-jie-di-er-ye/11111.md)
-* [简介第一页](jian-jie/jian-jie-di-yi-ye.md)
-
-## 概念
-
-* [概念第一个](gai-nian/gai-nian-di-yi-ge.md)
+* [模型](introduction/concepts.md)
+* [安装使用](introduction/prometheus.md)
+* [可视化](introduction/visualization.md)
+* [简介第二页](introduction/jian-jie-di-er-ye/README.md)
+  * [2222](introduction/jian-jie-di-er-ye/2222.md)
+  * [11111](introduction/jian-jie-di-er-ye/11111.md)
+* [简介第一页](introduction/jian-jie-di-yi-ye.md)
 
